@@ -1,4 +1,6 @@
 package io.byereject.backend.auth.enums;
 
-public class Role {
+public enum Role {
+    USER,
+    ADMIN
 }
